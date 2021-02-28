@@ -1,5 +1,7 @@
+_Or, for the less watered down version, see my virtual notebook_
+
 The results of my experiment indicate that yes, colour does affect both the selection of drinks and whether they taste good to people. For the most part, the average rating was improved when the subjects could not see the drinks, which lines up with the fact that the colours I used are not the most appetising, at least to me. Additionally, subject B stated after the experiment that he based which drinks he consumed first based on his knowledge of Gatorade flavours, plus subject A, for both drinks, picked purple/black first, purple being their favourite colour. This means that colour can affect the selection. 
-<div id="more">
+
 Orange was typically picked first or third, though the placements did vary. This makes sense, since the colour orange is supposed to have an attention-grabbing effect. 
 Purple/black was picked first both times by subject A. This is her favourite colour, so it makes sense even without any background knowledge about purple and its related emotions. It may have also been picked first by subject C once due to him liking Coca-Cola which is black.
   <br>
