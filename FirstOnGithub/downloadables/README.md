@@ -1,4 +1,6 @@
-Link to video : https://www.youtube.com/watch?v=qdgcS479rIY
+Link to Mario platformer video : https://www.youtube.com/watch?v=qdgcS479rIY
+
+Link to updated info and other stuff: https://projectboard.world/ysc/project/drinking-differently
 
 Notebook and Backboard links are in this folder. 
 
